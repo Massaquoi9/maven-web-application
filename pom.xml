@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>admin</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://100.27.13.80:8081/landmark/repository/tesla-releases/</url>
+	      <url>http://100.27.13.80:8081/landmark/repository/tesla-group/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>admin</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://100.27.13.80:8081/landmark/repository/tesla-snapshot/</url>
+	      <url>http://100.27.13.80:8081/landmark/repository/tesla-proxy/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
